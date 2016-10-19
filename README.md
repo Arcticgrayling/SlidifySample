@@ -1,0 +1,2 @@
+# SlidifySample
+test of Slidify
